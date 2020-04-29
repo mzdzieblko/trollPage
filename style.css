@@ -1,0 +1,29 @@
+body {
+  background-color: #fefefe;
+  color: #254441;
+}
+
+.header__link {
+  color: #43aa8b;
+  text-decoration: none;
+  margin-left: 8px;
+}
+.main__heading {
+  color: #ff6f59;
+}
+
+.footer__link {
+  color: #43aa8b;
+  text-decoration: none;
+}
+
+.main__gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.img__gallery {
+  margin: 8px;
+}
