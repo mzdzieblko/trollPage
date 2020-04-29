@@ -19,4 +19,3 @@ alert("Pozdro dla wytrwałych ;)");
 alert("i cierpliwych :D");
 alert("PS...");
 alert("mnie też się ta strona nie podoba ;)");
-alert("test");
